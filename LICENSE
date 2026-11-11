@@ -1,0 +1,55 @@
+PROPRIETARY EVALUATION LICENCE
+
+GRIT Interview Scheduling
+Copyright (c) 2026 Nishant. All rights reserved.
+
+This software, including its source code, compiled output, database schema,
+user interface design, written copy and accompanying documents (together,
+"the Software"), is the original work of Nishant ("the Author"). It was
+written as a submission for the "AI Product Engineer: Round 1" hiring
+assignment.
+
+1. Permitted use
+
+   The organisation that set the assignment, and the people it appoints to
+   review candidates (together, "the Reviewer"), may view, run and test the
+   Software solely to evaluate the Author as a candidate for employment.
+   This permission ends when the hiring process for that role ends, or on
+   31 January 2027, whichever comes first.
+
+2. Not permitted without a separate written agreement signed by the Author
+
+   a. using the Software, or any part of it, in production or with real
+      students, interviewers or other users;
+   b. copying, modifying, translating or creating derivative works from the
+      Software, including re-implementing its design, data model, state
+      model or copy in another codebase;
+   c. distributing, sublicensing, publishing or sharing the Software with
+      anyone outside the review panel, or placing it in any public or shared
+      repository;
+   d. removing or changing any copyright notice, licence notice, evaluation
+      watermark, author attribution or licence check in the Software;
+   e. using the Software, or any output of it, to train or fine-tune any
+      machine learning model.
+
+3. Ownership
+
+   Submitting the Software for review does not transfer any intellectual
+   property rights. All rights not expressly granted here are reserved by
+   the Author. Ownership or a wider licence may be transferred only by a
+   written agreement, for example as part of an offer of employment or a
+   paid contract.
+
+4. Licence keys
+
+   Running the Software outside evaluation mode requires a licence key
+   issued by the Author. Producing, altering or bypassing a licence key, or
+   the code that checks it, is a breach of this licence.
+
+5. No warranty
+
+   The Software is provided "as is", without warranty of any kind. The
+   Author is not liable for any claim, damages or other liability arising
+   from its use.
+
+For a licence or any other permission, contact the Author.

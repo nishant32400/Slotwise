@@ -1,0 +1,7 @@
+**/node_modules
+client/dist
+.env
+*.pem
+.git
+docs
+tools

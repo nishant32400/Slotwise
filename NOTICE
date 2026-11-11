@@ -1,0 +1,8 @@
+GRIT Interview Scheduling
+Copyright (c) 2026 Nishant. All rights reserved.
+
+Submitted as a hiring assignment. Evaluation use only. See LICENSE.
+
+Third-party open source packages used (each under its own licence):
+  express (MIT), helmet (MIT), pg (MIT), react (MIT), react-dom (MIT),
+  react-router-dom (MIT), vite (MIT), @vitejs/plugin-react (MIT)
